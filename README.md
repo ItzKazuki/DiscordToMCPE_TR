@@ -1,6 +1,4 @@
-# DiscordToMCPE_TR
-DiscordToMCPE (Türkçe)
+# DiscordToMCPE_En
+DiscordToMCPE
 
-
-Kodu çalıp paylaşanların başına gelecekler:
-- Beddua
+coming soon
